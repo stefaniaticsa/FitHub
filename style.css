@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(68, 66, 66);
+    color: aliceblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-brand {
+    color: rgb(233, 193, 233);
+    font-weight: bold;
+}
+
+nav {
+    background-color: purple;
+}
+
+.nav-link {
+    color: rgb(233, 193, 233)
+}
+h2 {
+    color: plum;
+    background-color: rgb(53, 52, 52);
+    text-align: center;
+}
+h4 {
+    color: plum;
+}
+h5 {
+    color: plum;
+}
+h6 {
+    color: plum;
+    font-weight: bold;
+}
+.accordion {
+
+    --bs-accordion-btn-bg: plum;
+    --bs-accordion-active-bg: purple;
+    --bs-accordion-color: aliceblue;
+    --bs-accordion-btn-color: aliceblue;
+    --bs-accordion-btn-active-icon: aliceblue;
+    --bs-accordion-bg: rgb(53, 52, 52);
+    --bs-accordion-active-color: aliceblue;
+}
+.btn {
+--bs-btn-color: aliceblue;
+--bs-btn-bg: purple;
+}
+.carousel-caption {
+    color: whitesmoke;
+}
+.facilities {
+    background-color: rgb(53, 52, 52);
+    box-shadow: 0px 4px 30px 0 black;
+    border-radius: 20px;
+}
+footer {
+    background-color: rgba(22, 20, 20, 0.904);
+
+}
+.card {
+    --bs-card-bg: rgb(94, 91, 91);
+    box-shadow: 0px 4px 30px 0 black;
+    border-radius: 20px;
+}

@@ -1,6 +1,7 @@
 body {
     background-color: rgb(68, 66, 66);
     color: aliceblue;
+    font-family: 'Quicksand', sans-serif;
 }
 
 html {
@@ -64,4 +65,5 @@ footer {
     --bs-card-bg: rgb(94, 91, 91);
     box-shadow: 0px 4px 30px 0 black;
     border-radius: 20px;
+    --bs-card-height: 100%;
 }
